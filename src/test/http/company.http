@@ -20,7 +20,7 @@ Accept: application/json
 
 ###
 
-GET http://{{host}}:{{port}}/customers
+GET http://{{host}}:{{port}}/companies
 Accept: application/json
 
 ###
